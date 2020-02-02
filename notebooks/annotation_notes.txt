@@ -1,0 +1,4 @@
+## Annotation notes 
+
+Annotation : va de 0 a 5 viene de uniprot ~score experimental 
+UK_score : en base de alguna de las annotaciones - homología ... va de 0 a 4 ... más unknown los que tienen 4 o 3 .... 
