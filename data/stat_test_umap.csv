@@ -1,0 +1,19 @@
+categories,pval,cluster,annot
+"Translation, ribosomal structure and biogenesis ",7.850142424609927e-34,0,cog_annot
+"Replication, recombination and repair ",1.719902342412359e-21,3,cog_annot
+"Replication, recombination and repair ",1.719902342412359e-21,4,cog_annot
+Function unknown ,2.223385624304899e-06,6,cog_annot
+Signal transduction mechanisms ,3.4293583721327396e-05,12,cog_annot
+Transcription ,3.6164823248050924e-06,18,cog_annot
+Cell wall/membrane/envelope biogenesis ,9.490690580185117e-08,21,cog_annot
+"Replication, recombination and repair ",2.454499261670738e-07,23,cog_annot
+"Secondary metabolites biosynthesis, transport and catabolism ",1.603488897726234e-05,24,cog_annot
+information pathways,2.093971043729832e-29,0,func_tuberculist
+insertion seqs and phages,4.5745279431048324e-24,3,func_tuberculist
+insertion seqs and phages,4.5745279431048324e-24,4,func_tuberculist
+cell wall and cell processes,1.1228311354281422e-05,7,func_tuberculist
+intermediary metabolism and respiration,2.5796012313305436e-07,9,func_tuberculist
+PE/PPE,2.0210032448958467e-06,17,func_tuberculist
+cell wall and cell processes,3.632979785755398e-07,19,func_tuberculist
+insertion seqs and phages,1.7108539241122438e-16,23,func_tuberculist
+lipid metabolism,2.2707271430988065e-08,24,func_tuberculist
