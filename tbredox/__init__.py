@@ -1,6 +1,6 @@
 """High level functions for clustering and dimensionality reduction."""
 
-from . import tbredox
+from . import tbx
 from . import viz
 
 __author__ = """Emanuel Flores, Adrian Jinich"""
